@@ -1,0 +1,11 @@
+TFL_APP_KEY = "YOUR_TFL_APP_KEY"
+WIFI_SSID = "YOUR_WIFI_SSID"
+WIFI_PASSWORD = "YOUR_WIFI_PASSWORD"
+WEATHER_API_KEY = "YOUR_OPENWEATHERMAP_API_KEY"
+WEATHER_LAT = 51.
+WEATHER_LON = 0.
+NTP_SERVER = "0.uk.pool.ntp.org"
+TZ_OFFSET = 0
+BST = True
+LINE_IDS = ["hammersmith-city", "circle", "central"]
+LINE_TITLES = ["H&C", "Circle", "Central"]
